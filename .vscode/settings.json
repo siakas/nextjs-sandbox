@@ -3,6 +3,7 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.codeActionsOnSave": {
+    // import されていないモジュールを自動補完
     "source.addMissingImports": true,
 
     // ファイル保存時に ESLint による自動フォーマットを実行する
